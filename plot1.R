@@ -1,6 +1,5 @@
 # Import data
 library(datasets)
-install.packages("sqldf")
 library(sqldf)
 
 setwd("C:/_ECB work/Coursera/Exploratory Data Analysis/Project 1/")
